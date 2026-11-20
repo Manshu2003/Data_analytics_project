@@ -47,5 +47,5 @@ An in-depth analysis of hotel booking patterns, cancellation rates, customer dem
 
 ## 👨‍💻 Author
 
-**Manshu Jaiswal**  
+**Manshu**  
 * GitHub: [@Manshu2003](https://github.com/Manshu2003)
