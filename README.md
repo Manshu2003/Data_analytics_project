@@ -22,7 +22,10 @@ An end-to-end exploratory and visual analysis of Swiggy restaurant ratings, orde
 
 ## 🏨 2. Hotel Booking & Revenue Analysis (`Hotel file project/`)
 
-An in-depth analysis of hotel booking patterns, cancellation rates, customer demographics, and revenue performance built with **Python, SQL, and Power BI**.
+An in-depth analysis of hotel booking patterns, cancellation rates, customer demographics, and revenue performance built with **Power BI, SQL, Python, and Excel**.
+
+### Dashboard Preview
+![Hotel Power BI Dashboard](https://raw.githubusercontent.com/Manshu2003/Data_analytics_project/main/Hotel%20file%20project/Hotel_Dashboard.png)
 
 ### Project Files & Direct Links
 * **📈 Visual Analysis Report (PDF):** [View Report with Graphs (`Hotel_Data_Analysis_Report_WITH_GRAPHS.pdf`)](https://github.com/Manshu2003/Data_analytics_project/blob/main/Hotel%20file%20project/Hotel_Data_Analysis_Report_WITH_GRAPHS.pdf)
